@@ -9,10 +9,8 @@ Welcome to my Console Application!
 ![image](https://github.com/shanedenneycuizon/CS323-Error-Control-App/assets/111852805/b99fa6f7-f3cc-43e9-beed-f0a4c5f4f67c)
 
 Function 1. Check if set of bits are ODD parity
-Ex1:
-![image](https://github.com/shanedenneycuizon/CS323-Error-Control-App/assets/111852805/9e60b3f6-99ae-49a7-a58c-1377f8b3cbe2)
-Ex2:
-![image](https://github.com/shanedenneycuizon/CS323-Error-Control-App/assets/111852805/4e3fd869-05ee-4f63-94dc-8ecf1c5ce9a9)
+Ex1: ![image](https://github.com/shanedenneycuizon/CS323-Error-Control-App/assets/111852805/9e60b3f6-99ae-49a7-a58c-1377f8b3cbe2)
+Ex2: ![image](https://github.com/shanedenneycuizon/CS323-Error-Control-App/assets/111852805/4e3fd869-05ee-4f63-94dc-8ecf1c5ce9a9)
     
 Function 2. Check if set of bits are EVEN parity
 Ex1:
