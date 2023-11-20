@@ -12,3 +12,17 @@ C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323 - Error Co
 C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323 - Error Control App\ErrorControlApp-Act10\ErrorControlApp-Act10\obj\Debug\net7.0\ErrorControlApp-Act10.pdb
 C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323 - Error Control App\ErrorControlApp-Act10\ErrorControlApp-Act10\obj\Debug\net7.0\ErrorControlApp-Act10.genruntimeconfig.cache
 C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323 - Error Control App\ErrorControlApp-Act10\ErrorControlApp-Act10\obj\Debug\net7.0\ref\ErrorControlApp-Act10.dll
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-Error-Control-App\ErrorControlApp-Act10\ErrorControlApp-Act10\bin\Debug\net7.0\ErrorControlApp-Act10.exe
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-Error-Control-App\ErrorControlApp-Act10\ErrorControlApp-Act10\bin\Debug\net7.0\ErrorControlApp-Act10.deps.json
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-Error-Control-App\ErrorControlApp-Act10\ErrorControlApp-Act10\bin\Debug\net7.0\ErrorControlApp-Act10.runtimeconfig.json
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-Error-Control-App\ErrorControlApp-Act10\ErrorControlApp-Act10\bin\Debug\net7.0\ErrorControlApp-Act10.dll
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-Error-Control-App\ErrorControlApp-Act10\ErrorControlApp-Act10\bin\Debug\net7.0\ErrorControlApp-Act10.pdb
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-Error-Control-App\ErrorControlApp-Act10\ErrorControlApp-Act10\obj\Debug\net7.0\ErrorControlApp-Act10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-Error-Control-App\ErrorControlApp-Act10\ErrorControlApp-Act10\obj\Debug\net7.0\ErrorControlApp-Act10.AssemblyInfoInputs.cache
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-Error-Control-App\ErrorControlApp-Act10\ErrorControlApp-Act10\obj\Debug\net7.0\ErrorControlApp-Act10.AssemblyInfo.cs
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-Error-Control-App\ErrorControlApp-Act10\ErrorControlApp-Act10\obj\Debug\net7.0\ErrorControlApp-Act10.csproj.CoreCompileInputs.cache
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-Error-Control-App\ErrorControlApp-Act10\ErrorControlApp-Act10\obj\Debug\net7.0\ErrorControlApp-Act10.dll
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-Error-Control-App\ErrorControlApp-Act10\ErrorControlApp-Act10\obj\Debug\net7.0\refint\ErrorControlApp-Act10.dll
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-Error-Control-App\ErrorControlApp-Act10\ErrorControlApp-Act10\obj\Debug\net7.0\ErrorControlApp-Act10.pdb
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-Error-Control-App\ErrorControlApp-Act10\ErrorControlApp-Act10\obj\Debug\net7.0\ErrorControlApp-Act10.genruntimeconfig.cache
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-Error-Control-App\ErrorControlApp-Act10\ErrorControlApp-Act10\obj\Debug\net7.0\ref\ErrorControlApp-Act10.dll

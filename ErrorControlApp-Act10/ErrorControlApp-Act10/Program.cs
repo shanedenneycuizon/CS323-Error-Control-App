@@ -150,6 +150,7 @@ static void BlockBitsErrorCheck()
 {
     int[,] block = inputBlock();
     //input the BCCbits
+    Console.Write("BCC:   ");
     string BCCbits = Console.ReadLine();
 
     //separate the inputed string
@@ -158,11 +159,13 @@ static void BlockBitsErrorCheck()
     if (!correctBCC.SequenceEqual(split_BCCbits))
     {
         Console.WriteLine("Error. BCC Incorrect.");
-        Console.WriteLine("BCC should be: ");
+        Console.WriteLine("BCC should be:");
+        Console.Write("BCC:   ");
         foreach (int bit in correctBCC)
         {
             Console.Write(bit + " ");
         }
+        Console.WriteLine("");
     }
     else
     {
